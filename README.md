@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando em Suporte Técnico
-- 🌱 Atualmente estou aprendendo Python para Backend na Alura
+- 🌱 Atualmente estou aprendendo segurança da informação pela TryHackMe
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
 
